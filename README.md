@@ -3,7 +3,7 @@
 - 👀 Mi interesso all'informatica da quando ero piccolo e ho ricevuto il mio primo portatile, un Fujitsu Siemens (difettoso xD) a 6 anni, da lì è nato tutto.
 - 🧠 Muovo i primi passi qui sopra, sto imparando, siate buoni :)
 - 💾 Attualmente sto condividendo liste di software utili, con le migliori scoperte (anche di nicchia) fatte nel corso degli anni
-- 🤝 Sono aperto a collaborare con chiunque (al momento solo per modificare readme.md, con le guide e le varie liste di software)
+- 🤝 Sono aperto a collaborare con chiunque (al momento per modificare readme.md, con le guide e le varie liste)
 - 🖥️ Linguaggi di programmazione: Sto studiando Python
 - 🐧 LMDE (Linux Mint Debian Edition) / Mabox Linux (basato sulla versione stabile di Manjaro)
 - 📫 Per il momento non aggiungo una mail di contatto
