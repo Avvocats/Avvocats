@@ -8,7 +8,7 @@
 Pacchetto Office; Database (MySQL, MariaDB, NoSQL; [base]); Disegno CAD/BIM; Front-end developer HTML-CSS (Web design, Aggiornamento contenuti);
 NAS (TrueNAS, FreeNAS, Rockstor BTRFS, Openmediavault); Container Docker (CasaOS, portainer.io);
 Virtualizzazione (Proxmox e PBS, QuickEmu, VirtualBox, VMware, Hyper-V, Veeam); VPN (WireGuard, OpenVPN); Domotica (Home Assistant, IFTTT);
-Assemblaggio Hardware (avanzato); Server (Apache XAMPP, FTP FileZilla, Cloud, Posta); Installazione e amministrazione Reti aziendali, apparecchiature di rete (Switch, router, ecc.)
+Assemblaggio Hardware (avanzato); Server (Apache XAMPP, FTP FileZilla, Cloud, Posta); Installazione e amministrazione Reti aziendali, apparecchiature di rete (Switch, router, ecc.);
 Telefonia e centralini VoIP (3CX); Nextcloud; Costruzione siti Web ed E-commerce (Wordpress+WooCommerce, phpMyAdmin, cPanel).
 Linguaggi di programmazione: Sto studiando Python (base).
 Fotoritocco e montaggio Video/Audio (Kdenlive, Shotcut, DaVinci Resolve, Canva, Audacity).
