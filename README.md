@@ -4,7 +4,7 @@
 - 🍀 Muovo i primi passi qui sopra, sto imparando, siate buoni :)
 - 💾 Attualmente sto condividendo liste di software utili, con le migliori scoperte (anche di nicchia) fatte nel corso degli anni
 - 🤝 Sono aperto a collaborare con chiunque (al momento per modificare i vari readme.md, con le guide e le liste)
-- 🖥️ Sistemi operativi: Windows (Avanzato) - Linux (Intermedio) - MacOS (Base) - FreeBSD (Base), S.O. per firewall e router: OpenWRT - pfSense
+- 🖥️ Sistemi operativi: Windows (Avanzato) - Linux (Intermedio) - MacOS (Base) - FreeBSD (Base), S.O. per firewall e router: OpenWRT - pfSense; 
 Pacchetto Office; Database (MySQL, MariaDB, NoSQL; [base]); Disegno CAD/BIM; Front-end developer HTML-CSS (Web design, Aggiornamento contenuti);
 NAS (TrueNAS, FreeNAS, Rockstor BTRFS, Openmediavault); Container Docker (CasaOS, portainer.io);
 Virtualizzazione (Proxmox e PBS, QuickEmu, VirtualBox, VMware, Hyper-V, Veeam); VPN (WireGuard, OpenVPN); Domotica (Home Assistant, IFTTT);
