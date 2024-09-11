@@ -10,7 +10,7 @@ NAS (TrueNAS, FreeNAS, Rockstor BTRFS, Openmediavault); Container Docker (CasaOS
 Virtualizzazione (Proxmox e PBS, QuickEmu, VirtualBox, VMware, Hyper-V, Veeam); VPN (WireGuard, OpenVPN); Domotica (Home Assistant, IFTTT);
 Assemblaggio Hardware (avanzato); Server (Apache XAMPP, FTP FileZilla, Cloud, Posta); Installazione e amministrazione Reti aziendali, apparecchiature di rete (Switch, router)
 Telefonia e centralini VoIP (3CX); Nextcloud; Costruzione siti Web ed E-commerce (Wordpress+WooCommerce, phpMyAdmin, cPanel).
-Linguaggi di programmazione: Sto studiando Python (base)
+Linguaggi di programmazione: Sto studiando Python (base).
 Fotoritocco e montaggio Video/Audio (Kdenlive, Shotcut, DaVinci Resolve, Canva, Audacity).
 Appassionato di Sistemistica come sysadmin (ho un Homelab), Informatica Open Source e Domotica.
 - 🐍 Linguaggi di programmazione: Sto studiando Python (base)
