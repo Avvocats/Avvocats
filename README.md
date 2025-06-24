@@ -14,9 +14,9 @@ Linguaggi di programmazione: Sto studiando Python (base).
 Fotoritocco e montaggio Video/Audio (Kdenlive, Shotcut, DaVinci Resolve, Canva, Audacity).
 Appassionato di Sistemistica come sysadmin (ho un Homelab), Informatica Open Source e Domotica.
 - 🐍 Linguaggi di programmazione: Sto studiando Python (base)
-- 🐧 LMDE (Linux Mint Debian Edition) / Mabox Linux (basato sulla versione stabile di Manjaro)
+- 🐧 LMDE (Linux Mint Debian Edition) / Mabox Linux (basato sulla versione stabile di Manjaro) / Nobara Linux
 - 📫 Per il momento non aggiungo una mail di contatto
-- ⚡ Altre Passioni: Mi piace l'edilizia, la storia e l'astronomia
+- ⚡ Altre Passioni: Mi piace l'architettura, la storia e l'astronomia
 
 <!---
 Avvocats/Avvocats is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
